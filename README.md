@@ -14,7 +14,7 @@ A Machine Learning web application that predicts the number of calories burned d
 
 
 
-👉 (Add your deployed Streamlit link here after deployment)
+👉 https://calories-predictor-shivangi.streamlit.app
 
 
 
